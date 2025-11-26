@@ -1,0 +1,28 @@
+[project]
+name = "project-ethane-evanfantozzi-graceek"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alt-profanity-check>=1.6.1",
+    "detoxify>=0.5.2",
+    "empath>=0.89",
+    "flask>=3.1.1",
+    "joblib>=1.4.2",
+    "nltk>=3.9.1",
+    "pandas>=2.2.3",
+    "rapidfuzz>=3.13.0",
+    "ruff>=0.11.8",
+    "scikit-learn>=1.6.1",
+    "sentence-transformers>=4.1.0",
+    "skimpy>=0.0.18",
+    "spacy>=3.8.5",
+    "streamlit>=1.45.1",
+    "tensorflow>=2.19.0",
+    "textblob>=0.19.0",
+    "tf-keras>=2.19.0",
+    "torch>=2.6.0",
+    "transformers>=4.51.2",
+    "watchdog>=6.0.0",
+]

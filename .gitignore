@@ -1,0 +1,8 @@
+*.csv
+*.json
+*.pkl
+*.db
+build_models/keyword_lists/*.txt
+build_models/__pycache__
+__pycache__
+.venv
