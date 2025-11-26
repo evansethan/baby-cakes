@@ -1,4 +1,4 @@
-# Extremism Detector
+# BabyCakes: Far-Right Extremism Detector
 
 Our team developed a supervised binary classification model which predicts whether a social media post (e.g., a tweet) is far-right extremist. 
 
