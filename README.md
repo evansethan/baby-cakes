@@ -1,6 +1,6 @@
-# BabyCakes: Far-Right Extremism Detector
+# BabyCakes: Hate Speech Detector
 
-Our team developed a supervised binary classification model which predicts whether a social media post (e.g., a tweet) is far-right extremist. 
+Our team developed a supervised binary classification model which predicts whether a social media post (e.g., a tweet) uses far-right hate speech.
 
 To train and run the model yourself, you can build out your own dataset or contact us.
 
